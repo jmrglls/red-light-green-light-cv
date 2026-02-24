@@ -87,7 +87,7 @@ DEAD
 
 green_move_threshold = 0.004
 
-red_move_threshold_base = 0.005
+red_move_threshold_base = 0.006
 
 red_move_threshold = red_move_threshold_base + (level - 1) * 0.003 for level increase
 
